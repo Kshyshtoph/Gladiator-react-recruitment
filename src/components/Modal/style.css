@@ -19,10 +19,7 @@
 .modal__header {
   display: flex;
   justify-content: space-between;
-  background-color: white;
-}
-.modal__content {
-  background-color: white;
+  align-items: center;
 }
 .modal__btn {
   height: 30px;
